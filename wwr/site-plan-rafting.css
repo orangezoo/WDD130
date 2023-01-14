@@ -9,11 +9,11 @@ Fonts are separated by a & */
   /* change the values below to your colors from your palette */
   --primary-color: #CAFED7   ;
   --secondary-color: #F5BFD7 ;
-  --accent1-color: #ABC9E9;
+  --accent1-color: #fff;
   --accent2-color: #9FCCFA;
 
   /* change the values below to your chosen font(s) */
-  --heading-font: "swap";
+  --heading-font: "Playfair Display";
   --paragraph-font: Playfair Display, Helvetica, sans-serif;
 
   /* these colors below should be chosen from among your palette colors above */
