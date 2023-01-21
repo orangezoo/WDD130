@@ -1,0 +1,40 @@
+nav{
+    padding:1rem;
+    background: gold;
+    border-radius: 2rem 2rem 0 0;
+
+}
+
+body {
+    max-width: 960px;
+    margin: 0 auto;
+    font-size: 36x;
+    text-align: center;
+  }
+  img {
+    display: block;
+    margin: 0 auto;
+    max-width: 600px;
+  }
+.social {
+    display: block;
+    margin: 0 auto;
+    max-width: 50px;
+}
+.book,
+.book:visited{
+    text-decoration:none;
+    color:blueviolet
+}
+.book:hover,
+.book:focus{
+    
+    border-radius: 2rem;
+    margin: 0 auto 1 rem;
+    max-width: 800px;
+    font-size: 2rem ;
+    background:gold;
+    color:blueviolet ;
+    
+
+}
